@@ -1,3 +1,3 @@
 # LogisticsBlocks
 ----
-![Supply Image](Images/ethereum_solidity.jpg)
+![Supply Image](Images/Logo1.PNG)
