@@ -6,4 +6,4 @@ Post world war II is an important era to the world. Liberalism, world peace have
 
 Our mission is to use blockchain as our building blocks and other technical tools to provide environment-friendly supply chain solutions to the world to connect all logistics blocks to provide human needs most efficiently than ever. 
 
-## Our Slogan:  Protect the quality of the earth is an art.   
+#### Our Slogan:  Protect the quality of the earth is an art.   
